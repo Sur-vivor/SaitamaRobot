@@ -77,8 +77,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://telegra.ph/file/1c6bc475b096e02b65d98.jpg"
-
+SAITAMA_IMG = https://telegraph/file/d77a98eda9f888fdf8fbf.jpg
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Saitama is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
 You can donate to the original writer of the Base code, Paul
@@ -196,7 +195,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="👤 Owner",
-                             url=f"https://t.me/rosebakthan"),
+                             url="https://t.me/POWER_OF_TELEGRAM),
                          InlineKeyboardButton(
                              text="🔔 Updates Channel",
                              url="https://t.me/TG_BotZ")
